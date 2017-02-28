@@ -1,0 +1,5 @@
+2017
+
+create my own linux distribution and run it from a U disk to bring up my Toshiba.
+
+desktop using kde or gnome, choosing one after a survey.

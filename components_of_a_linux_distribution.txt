@@ -1,0 +1,8 @@
+Components of a linux distribution
+
+1 linux kernel
+2 desktop
+3 package management system
+4 toolchain and library
+5 bootloader
+
